@@ -21,21 +21,21 @@
 
 #  **About Me **
 ```python
-class Abhyudaya:
+class Sparsh:
     def __init__(self):
         currently_learning: ["Web3", "React", "Vue"]
         Used = ['OpenCV', 'Git', 'After Effects', 'Photoshop', 'VSCode', 'Notion']
         Current_project = 'Python Coding Internship at Codsoft'
         located_in: "Uttar Pradesh, INDIA"
         job: "Btech 1st year"
-        education: ["Bachelor in Technology with AI-ML"]
+        education: ["Bachelor in Technology with ECE"]
         fields_of_interests(Tech): ["No perticular intrest, Diving in and learning everything currently"]
         technical_background: ["Basic python and java"]
-        currently_learning: ["Python", "Java", "and a little guitar + singing"]
+        currently_learning: ["Python", "Java", "and a little singing"]
         will_learn: ["Css", "Docker", "HTML", "JavaScript", "ML", "Data Science", "C", "Anderoid APIs"..........]
-        hobbies: ["Football", "Anime/Movies", "Story/Competitive Gaming", "Singing/Dancing", "Sketching/Crafting", "Workout", "Swimming"]
+        hobbies: ["Time pass", "Anime/Movies", " Gaming", "Singing/Dancing", ]
 
-        i_love_the_feeling_of_fixing_the_code_after_hours_of_compiling
+        i_love_to_be_free
 ```
 
 ---
